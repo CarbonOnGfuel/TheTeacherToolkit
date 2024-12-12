@@ -1,4 +1,5 @@
 Teacher Toolkit - Version 1.0
+
 Welcome to Teacher Toolkit, a lightweight and easy-to-use application designed to assist teachers in managing their classrooms effectively. This toolkit provides multiple functional tools to streamline your workflow and save time during lessons.
 
 Features
