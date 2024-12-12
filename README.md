@@ -20,7 +20,7 @@ These tools are designed to be intuitive, reliable, and efficient, helping teach
 ## Installation Instructions
 1. **Download the Application**:  
    - Download the zipped folder containing the application files.
-   - The Google Drive link can be found here, `https://drive.google.com/file/d/1Yr29dAaicHNGh-Bn6Kb_evRtBJgDuYmo/view?usp=sharing`
+   - The Google Drive link can be found here, [https://drive.google.com/file/d/1Yr29dAaicHNGh-Bn6Kb_evRtBJgDuYmo/view?usp=sharing]
 2. **Extract the Files**:  
    - Right-click the downloaded zip file and select "Extract All" to unzip the contents into a folder.
 3. **Run the Application**:  
